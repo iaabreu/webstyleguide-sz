@@ -227,7 +227,8 @@ a {
 
 .site-footer-owner {
   display: block;
-  font-weight: bold; }
+  font-weight: bold;
+  text-transform:uppercase; }
 
 .site-footer-credits {
   color: #819198; }
