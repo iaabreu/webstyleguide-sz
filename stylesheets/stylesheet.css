@@ -205,7 +205,8 @@ a {
   border: 0; }
 
 .logo-header{
-  width:20%;
+  width:100%;
+  max-width:20%;
   vertical-align:middle;
 }
 
@@ -250,4 +251,9 @@ a {
 
 @media screen and (max-width: 42em) {
   .site-footer {
-    font-size: 0.9rem; } }
+    font-size: 0.9rem; }
+    
+  .logo-header{
+  width:100%;
+  max-width:30%;
+  vertical-align:middle; } }
