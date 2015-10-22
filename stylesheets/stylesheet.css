@@ -278,10 +278,13 @@ footer {
 .main-sz{
   float: right;
   width: 70%;
-  background: #9c9;
-}
+  background: #9c9; }
+
 .sidebar-sz{
   float: left;
   width: 25%;
-  background: #c9c;
-}
+  background: #c9c; }
+
+.secondary-title{
+  color: #aaa;
+  font-size: 0.8em;}
