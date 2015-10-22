@@ -275,12 +275,12 @@ footer {
   padding: 1em 1em;
   font-size: 0.75em; } }
 
-.main{
+.main-sz{
   float: right;
   width: 70%;
   background: #9c9;
 }
-.sidebar{
+.sidebar-sz{
   float: left;
   width: 25%;
   background: #c9c;
