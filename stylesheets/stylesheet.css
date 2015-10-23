@@ -291,6 +291,13 @@ footer {
   float: left;
   width: 25%; }
 
+.sidebar-sz ul{
+  list-style: none;
+  padding: 0;
+  line-height: 2; }
+
 .secondary-title{
   color: #acacac !important;
-  font-size: 0.8em;}
+  font-size: 0.8em;
+  font-weight:normal !important;
+}
