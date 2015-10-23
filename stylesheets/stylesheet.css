@@ -284,12 +284,12 @@ footer {
 
 .main-sz{
   float: right;
-  width: 70%;
+  width: 80%;
   padding: 1em 0em 5em 0em; }
 
 .sidebar-sz{
   float: left;
-  width: 25%; }
+  width: 20%; }
 
 .sidebar-sz ul{
   list-style: none;
