@@ -222,7 +222,7 @@ a {
 
 footer {
   color: #acacac;
-  padding: 20em 8em;
+  padding: 15em 8em;
   font-size: 0.75em; }
 
 @media screen and (min-width: 64em) {
@@ -239,7 +239,7 @@ footer {
   
   footer {
   color: #acacac;
-  padding: 20em 5em;
+  padding: 15em 5em;
   font-size: 0.75em; } }
 
 @media screen and (max-width: 42em) {
@@ -279,7 +279,7 @@ footer {
   
   footer {
   color: #acacac;
-  padding: 20em 1em;
+  padding: 15em 1em;
   font-size: 0.75em; } }
 
 .main-sz{
