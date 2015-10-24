@@ -8,7 +8,12 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #555;
-  background-color:#f4f5f7;}
+  background-color:#f4f5f7;
+  background: url(https://cloud.githubusercontent.com/assets/10657625/10708516/26072e68-7a03-11e5-9046-7eade43caed5.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;}
 
 a {
   color: #f04e10;
