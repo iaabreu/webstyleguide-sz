@@ -296,7 +296,8 @@ footer {
 .sidebar-sz{
   float: left;
   width: 20%;
-  padding: 15px 0px;}
+  padding: 15px 0px;
+  font-size: 2vw;}
 
 .sidebar-sz ul{
   list-style: none;
